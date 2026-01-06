@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am a full stack java developer<br>looking to collaborate on java, angular or react projects<br>looking to help with debugging<br>I am currently learning angular react cybersecurity<br>
+I am a Full Stack Java Developer with experience in Java, Spring Boot, Angular, and React. I enjoy collaborating on open-source projects, contributing to Java, Angular, or React applications, and helping with debugging and problem-solving.
+
+Currently, I am expanding my skills in Angular, React, and Cybersecurity, and I’m eager to work on projects that challenge me to learn and grow while delivering high-quality solutions.
 
 
 ## 🌐 Socials:
